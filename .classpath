@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/govind/workspace/HTMLDataExtractor/lib/serializer.jar"/>
+	<classpathentry kind="lib" path="/home/govind/workspace/HTMLDataExtractor/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="/home/govind/workspace/HTMLDataExtractor/lib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="/home/govind/workspace/HTMLDataExtractor/lib/resolver.jar"/>
+	<classpathentry kind="lib" path="/home/govind/workspace/HTMLDataExtractor/lib/xercesSamples.jar"/>
+	<classpathentry kind="lib" path="/home/govind/workspace/HTMLDataExtractor/lib/htmlparser.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
